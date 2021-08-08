@@ -1,1 +1,1 @@
-# CT_Blog_revamp
+# A new version of CT Blog built with Next.js
